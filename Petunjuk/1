@@ -1,0 +1,14 @@
+Petunjuk Pertama 
+
+1.Siapkan Mysql
+2.Download dan Import database Mysql (theny)
+3.Download Aplikasi di gitHub(Tugas no 2)
+4.Buka atau Run Aplikasi tersebut
+5.Setelah terbuka 
+6.Tampilan pertama aplikasi yang telah dibuka
+7.Disuruh memasukan UserName dan Sandi
+8.Tampilan seterusnya memasukan Nama,Aplikasi,UserName,Password dan Keterangan
+9.Pilih tombol Tambahkan nanti di tabel tertera apa yang dimasukan
+10.Pilih tombol Edit untuk mengubah dari salah satu kolom 
+11.Pilih tombol Hapus untuk menghapus salah satu 
+12.Pilih tombol reset untuk mengembalikan keadaan
